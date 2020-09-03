@@ -4,12 +4,12 @@ The department wants to build a model that will help them identify the potential
 The file given below contains data on 5000 customers. The data include customer demographic information (age, income, etc.), the customer's relationship with the bank (mortgage, securities account, etc.), and the customer response to the last personal loan campaign (Personal Loan). Among these 5000 customers, only 480 (= 9.6%) accepted the personal loan that was offered to them in the earlier campaign.
 
 # prerequisite packages
-python version - 3.x
-scipy : pip install scipy
-numpy : pip install numpy
-pandas : pip install pandas
-matplotlib : pip install matplotlib
-sklearn : pip install scikit-learn
+python version - 3.x;
+scipy : pip install scipy;
+numpy : pip install numpy;
+pandas : pip install pandas;
+matplotlib : pip install matplotlib;
+sklearn : pip install scikit-learn;
 
 if you are using google colab than you dont need to install above packages.
 
